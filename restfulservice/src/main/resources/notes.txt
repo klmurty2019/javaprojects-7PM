@@ -31,3 +31,7 @@ Database
 
 Example code : 
 https://howtodoinjava.com/spring-boot2/spring-boot-crud-hibernate/
+
+
+Excecise :
+Create a rest service project to do CRUD operation for student
