@@ -1,0 +1,25 @@
+Date : 2-Jan-2020
+Time : 6PM to 8PM 
+
+Tools to be used are : eclipse EE, Gitbub Web registration, Git,
+
+Open Source
+	eclipse EE - 2019-09 R 
+Commercial
+	IntelliJ - C - Production ready
+	MyEclipse - C 
+	RAD - IBM - C
+
+Software Installation
+---------------------
+1)
+https://www.eclipse.org/downloads/packages/ - eclipse -EE - 64bit
+https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2019-12/R/eclipse-jee-2019-12-R-win32-x86_64.zip
+
+2) GIT software
+https://git-scm.com/downloads
+version : 2.24.1
+
+3) Github Registration
+
+
