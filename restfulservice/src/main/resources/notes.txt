@@ -28,3 +28,6 @@ model
 service
 dao
 Database
+
+Example code : 
+https://howtodoinjava.com/spring-boot2/spring-boot-crud-hibernate/
